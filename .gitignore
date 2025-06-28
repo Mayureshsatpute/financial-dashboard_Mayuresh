@@ -1,0 +1,10 @@
+*.mp4
+*.exe
+node_modules/
+dist/
+build/
+.next/
+.env
+*.log
+.vscode/
+.DS_Store
