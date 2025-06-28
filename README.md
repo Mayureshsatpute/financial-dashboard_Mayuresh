@@ -110,4 +110,4 @@ Error logging with Winston/Sentry
 👨‍💻 Author
 Mayuresh Satpute
 BTech Computer Science @ Vishwakarma University
-Open to internships | Passionate about full-stack & AI projects
+
